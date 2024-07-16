@@ -4,7 +4,7 @@ Official repository for the paper "Out-of-Distribution Detection Through Soft Cl
 
 ## Table of Contents
 
-- [About](#about)
+- [Abstract](#abstract)
 - [Contents](#contents)
 
 ## Abstract
